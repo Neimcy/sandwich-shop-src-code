@@ -1,6 +1,6 @@
 # sandwich-shop-src-code
 
----Deidrich Fall 2026 Web Project---
+---Neimcy Fall 2026 Web Project---
 
 The src folder to a web Project dedicated to making a full stack sandwich shop website. Allows for logins, orders, and messages.
 
@@ -18,7 +18,7 @@ For Vue.js, you need axios and bootstrap (latest versions) installed, I have a f
 
 To Run it.
 
-1. You need to be connected to Gateway's web server via Cisco anyconnect, set to vpn-home.gtc.edu. It's the same one used for the php class.
+1. You need to be connected to a reliable web server via Cisco anyconnect, and set to the robust vpn.
 
 2. open a CMD and run the Node.js with 
 $> node server.js
